@@ -4,6 +4,18 @@
 
 ---
 
+<div align="center">
+
+# 👋 Hi, I'm Rahul Pateriya
+
+### 🚀 DevOps Engineer | Azure | Kubernetes | Terraform | Docker | Azure DevOps | Linux
+
+*"Automating Infrastructure • Building Scalable Cloud Solutions • Continuous Learning"*
+
+</div>
+
+---
+
 ## 👨‍💻 About Me
 
 * ☁️ Passionate about Cloud & DevOps
