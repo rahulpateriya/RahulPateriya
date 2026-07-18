@@ -15,3 +15,9 @@
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=rahulpateriya&theme=tokyonight"/>
 </p>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulpateriya&theme=tokyo-night"/>
+</p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=rahulpateriya&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+</p>
