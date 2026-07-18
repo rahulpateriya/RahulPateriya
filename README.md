@@ -1,3 +1,9 @@
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=DevOps+Engineer;Azure+%7C+Kubernetes+%7C+Terraform;Docker+%7C+Linux+%7C+Azure+DevOps;Always+Learning+New+Things+🚀"/>
+</p>
+
+---
+
 <div align="center">
 
 # 👋 Hi, I'm Rahul Pateriya
