@@ -1,25 +1,86 @@
-# Hi 👋 I'm Rahul Pateriya
+<div align="center">
 
-🚀 DevOps Engineer
+# 👋 Hi, I'm Rahul Pateriya
 
-## 🛠 Skills
+### 🚀 DevOps Engineer | Azure | Kubernetes | Terraform | Docker | Azure DevOps | Linux
 
-- Azure
-- Kubernetes
-- Docker
-- Terraform
-- Azure DevOps
-- Linux
-- Git
-- Helm
+*"Automating Infrastructure • Building Scalable Cloud Solutions • Continuous Learning"*
 
-## 📌 Featured Projects
+</div>
 
-- 🚀 AKS Terraform Infrastructure
-- ☁ Azure Networking
-- 🔄 Azure DevOps CI/CD Pipeline
+---
 
-## 📫 Connect with me
+## 👨‍💻 About Me
 
-LinkedIn-https://www.linkedin.com/in/rahul-pateriya-8507b2354/
-Email-rahulpateriya2020@gmail.com
+* ☁️ Passionate about Cloud & DevOps
+* 🚀 Building Infrastructure using **Terraform**
+* ☸️ Deploying applications on **Azure Kubernetes Service (AKS)**
+* 🔄 Creating CI/CD pipelines with **Azure DevOps**
+* 🐳 Working with **Docker** & **Kubernetes**
+* 📚 Always learning new DevOps technologies
+
+---
+
+# 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=azure,kubernetes,docker,terraform,linux,bash,git,github,jenkins,vscode,powershell" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rahulpateriya&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulpateriya&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=rahulpateriya&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+* ☁️ AKS Infrastructure using Terraform
+* 🔄 Azure DevOps CI/CD Pipelines
+* 🐳 Docker Projects
+* ☸️ Kubernetes YAML Collection
+* 🌐 Azure Networking
+* 📦 Helm Charts
+
+---
+
+# 📚 Currently Learning
+
+* Azure Architecture
+* Helm
+* Monitoring with Prometheus & Grafana
+* GitHub Actions
+* Advanced Kubernetes
+
+---
+
+# 📫 Connect With Me
+
+* 💼 LinkedIn: *(Add your LinkedIn profile link)*
+* 📧 Email: *(Add your email)*
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+</div>
