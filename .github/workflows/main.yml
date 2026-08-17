@@ -1,0 +1,25 @@
+name: Self Hosted Runner Test
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  test-runner:
+    runs-on: self-hosted
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Test Runner
+        run: |
+          echo "Hello from GitHub Actions"
+          echo "Runner: $env:COMPUTERNAME"
+          echo "User: $env:USERNAME"
+
+      - name: Check PowerShell
+        run: |
+          Get-Location
+          Get-ChildItem
