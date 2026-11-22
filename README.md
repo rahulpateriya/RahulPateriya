@@ -35,15 +35,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rahulpateriya&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rahulpateriya&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
