@@ -1,97 +1,46 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=DevOps+Engineer;Azure+%7C+Kubernetes+%7C+Terraform;Docker+%7C+Linux+%7C+Azure+DevOps;Always+Learning+New+Things" />
-</p>
-
----
-
 <div align="center">
 
-# 👋 Hi, I'm Rahul Pateriya
+# Hi, I'm Rahul Pateriya
 
-### 🚀 DevOps Engineer | Azure | Kubernetes | Terraform | Docker | Azure DevOps | Linux
+### DevOps Engineer | Azure | Kubernetes | Terraform | Docker
 
-*"Automating Infrastructure • Building Scalable Cloud Solutions • Continuous Learning"*
+**Automating infrastructure · Improving delivery · Always learning**
+
+[GitHub Profile](https://github.com/rahulpateriya)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-* ☁️ Passionate about Cloud & DevOps
-* 🚀 Building Infrastructure using **Terraform**
-* ☸️ Deploying applications on **Azure Kubernetes Service (AKS)**
-* 🔄 Creating CI/CD pipelines with **Azure DevOps**
-* 🐳 Working with **Docker** & **Kubernetes**
-* 📚 Always learning new DevOps technologies
+I'm a DevOps Engineer focused on cloud infrastructure and reliable software delivery. I work with Azure, Kubernetes, Terraform, Docker, Azure DevOps, Linux, Git, and CI/CD.
 
----
+- Automating infrastructure with Terraform
+- Deploying containerized workloads with Docker and Kubernetes, including AKS
+- Building CI/CD pipelines with Azure DevOps
+- Continuing to learn cloud-native tools and practices
 
-# 🛠️ Tech Stack
+## Technical Skills
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=azure,kubernetes,docker,terraform,linux,bash,git,github,jenkins,vscode,powershell" />
-</p>
+- **Cloud:** Microsoft Azure, Azure Kubernetes Service (AKS)
+- **Containers & orchestration:** Docker, Kubernetes
+- **Infrastructure as Code:** Terraform, HCL
+- **CI/CD:** Azure DevOps, Jenkins
+- **Version control:** Git, GitHub
+- **Systems & scripting:** Linux, Bash, PowerShell
 
----
+## Featured Repositories
 
-# 📊 GitHub Stats
+- [AKS_k8s_Cluster](https://github.com/rahulpateriya/AKS_k8s_Cluster) — Azure Kubernetes Service and Kubernetes infrastructure
+- [new_infraPipeLine](https://github.com/rahulpateriya/new_infraPipeLine) — Infrastructure pipeline project using HCL
+- [K8s_microservices](https://github.com/rahulpateriya/K8s_microservices) — Kubernetes microservices project
+- [axion-UI](https://github.com/rahulpateriya/axion-UI) — TypeScript UI project
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rahulpateriya&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rahulpateriya&layout=compact&theme=tokyonight" />
-</p>
+## Currently Learning
 
----
+Azure architecture · Helm · Prometheus and Grafana · GitHub Actions · Advanced Kubernetes
 
-# 🔥 GitHub Streak
+## Connect
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=rahulpateriya&theme=tokyonight"/>
-
-</p>
-
----
-
-📈 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulpateriya&theme=tokyo-night"/>
-</p>
-
----
-
-# 🚀 Featured Projects
-
-* ☁️ AKS Infrastructure using Terraform
-* 🔄 Azure DevOps CI/CD Pipelines
-* 🐳 Docker Projects
-* ☸️ Kubernetes YAML Collection
-* 🌐 Azure Networking
-* 📦 Helm Charts
-
----
-
-# 📚 Currently Learning
-
-* Azure Architecture
-* Helm
-* Monitoring with Prometheus & Grafana
-* GitHub Actions
-* Advanced Kubernetes
-
----
-
-# 📫 Connect With Me
-
-* 💼 LinkedIn: *(Add your LinkedIn profile link)*
-* 📧 Email: *(Add your email)*
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-</div>
+Reach me through [GitHub](https://github.com/rahulpateriya).
